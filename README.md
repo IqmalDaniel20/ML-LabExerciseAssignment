@@ -36,16 +36,16 @@ This repository contains all the coursework submissions for the Machine Learning
 
 ## Lab Enhancements
 
-### [Lab Enhancement - K-Means Clustering](./3_LabEnhancements_KMeans/README.md)
+### [Lab Enhancement - K-Means Clustering](./1_LabEnhancements_KMeans/README.md)
 This enhancement explores the use of K-Means clustering algorithm to segment mall customers based on their spending patterns and income levels.
 
-### [Lab Enhancement - PCA](./1_LabEnhancements_PCA/README.md)
+### [Lab Enhancement - PCA](./2_LabEnhancements_PCA/README.md)
 A detailed exploration of Principal Component Analysis, its mathematical foundations, and its applications to dimensionality reduction.
 
-### [Lab Enhancement - PCA from Scratch](./2_LabEnhancements_PCA_From_Scratch/README.md)
+### [Lab Enhancement - PCA from Scratch](./3_LabEnhancements_PCA_From_Scratch/README.md)
 An in-depth guide on implementing PCA from scratch, using Python to explore and visualize the impact of PCA on synthetic and real-world datasets.
 
-### [Lab Enhancement - Stress Level Analysis using Linear Regression](./4_LabEnhancements_Linear_Regression/README.md)
+### [Lab Enhancement - Stress Level Analysis using Linear Regression](./4_LabEnhancements_LinearRegression/README.md)
 Analysis of stress levels among university students using linear regression, highlighting the relationship between age and stress.
 
 ## Machine Learning Project
