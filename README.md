@@ -50,7 +50,7 @@ Analysis of stress levels among university students using linear regression, hig
 
 ## Machine Learning Project
 
-### [Machine Learning Project - Mental Health Prediction](./5_ML_Project/README.md)
+### [Machine Learning Project - Mental Health Prediction](./5_Project/README.md)
 A comprehensive project that utilizes multiple machine learning models to predict mental health issues based on various student life factors.
 
 ## Installation and Usage
