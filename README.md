@@ -26,6 +26,14 @@
 
 This repository contains all the coursework submissions for the Machine Learning course at [Multimedia University]. It includes several lab enhancements and a comprehensive machine learning project aimed at predicting mental health issues among students. Each component is designed to deepen our understanding of machine learning algorithms and their applications.
 
+## Video Presentation
+
+Watch our comprehensive video presentation covering all lab enhancements and the mental health prediction project. The video showcases our methodology, the application of machine learning techniques, and key insights from our analysis.
+
+[![Machine Learning Lab Enhancement & Project Video Presentation](http://img.youtube.com/vi/xsT0KYfc_mY/0.jpg)](https://youtu.be/xsT0KYfc_mY "Machine Learning Lab Enhancement & Project Video Presentation")
+
+Click on the image above to watch the video.
+
 ## Contents
 
 - [Lab Enhancement - K-Means Clustering](#lab-enhancement---k-means-clustering)
